@@ -1,7 +1,7 @@
 {
   "animateLoading": true,
   "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-  "bottomRow": 23,
+  "bottomRow": 31,
   "dynamicBindingPathList": [
     {
       "key": "truncateButtonColor"
@@ -30,8 +30,8 @@
   "mobileRightColumn": 19,
   "mobileTopRow": 13,
   "needsErrorInfo": false,
-  "originalBottomRow": 27,
-  "originalTopRow": 12,
+  "originalBottomRow": 26,
+  "originalTopRow": 15,
   "overflow": "NONE",
   "parentColumnSpace": 10.25,
   "parentId": "0",
@@ -43,7 +43,7 @@
   "text": "This site will help you select plants based on the climate in your area. Many people buy plants that won't survive given the conditions of that particular area. Our goal is to make plant selection easier for those choosing plants for their unique environment and to assist.",
   "textAlign": "LEFT",
   "textColor": "#231F20",
-  "topRow": 12,
+  "topRow": 20,
   "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
   "type": "TEXT_WIDGET",
   "version": 1,
