@@ -7,6 +7,14 @@
   "buttonVariant": "PRIMARY",
   "disabledWhenInvalid": false,
   "dynamicBindingPathList": [],
+  "dynamicPropertyPathList": [
+    {
+      "key": "buttonColor"
+    },
+    {
+      "key": "borderRadius"
+    }
+  ],
   "dynamicTriggerPathList": [],
   "iconAlign": "left",
   "iconName": "tree",

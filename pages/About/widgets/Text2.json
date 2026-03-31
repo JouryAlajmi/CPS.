@@ -1,10 +1,13 @@
 {
   "animateLoading": true,
   "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-  "bottomRow": 5,
+  "bottomRow": 23,
   "dynamicBindingPathList": [
     {
       "key": "truncateButtonColor"
+    },
+    {
+      "key": "fontFamily"
     },
     {
       "key": "borderRadius"
@@ -12,38 +15,38 @@
   ],
   "dynamicHeight": "AUTO_HEIGHT",
   "dynamicTriggerPathList": [],
-  "fontFamily": "Nunito Sans",
+  "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
   "fontSize": "1rem",
   "fontStyle": "BOLD",
   "isLoading": false,
   "isVisible": true,
-  "key": "gsr5nleihm",
+  "key": "mgzsofh30r",
   "leftColumn": 0,
   "maxDynamicHeight": 9000,
   "minDynamicHeight": 4,
   "minWidth": 450,
-  "mobileBottomRow": 5,
-  "mobileLeftColumn": 0,
-  "mobileRightColumn": 11,
-  "mobileTopRow": 1,
+  "mobileBottomRow": 17,
+  "mobileLeftColumn": 3,
+  "mobileRightColumn": 19,
+  "mobileTopRow": 13,
   "needsErrorInfo": false,
-  "originalBottomRow": 5,
-  "originalTopRow": 1,
+  "originalBottomRow": 27,
+  "originalTopRow": 12,
   "overflow": "NONE",
-  "parentColumnSpace": 9.6171875,
-  "parentId": "j2v1i9zmms",
+  "parentColumnSpace": 10.25,
+  "parentId": "0",
   "parentRowSpace": 10,
   "renderMode": "CANVAS",
   "responsiveBehavior": "fill",
-  "rightColumn": 17,
+  "rightColumn": 52,
   "shouldTruncate": false,
-  "text": "Climate Plant Shop",
+  "text": "This site will help you select plants based on the climate in your area. Many people buy plants that won't survive given the conditions of that particular area. Our goal is to make plant selection easier for those choosing plants for their unique environment and to assist.",
   "textAlign": "LEFT",
   "textColor": "#231F20",
-  "topRow": 1,
+  "topRow": 12,
   "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
   "type": "TEXT_WIDGET",
   "version": 1,
-  "widgetId": "748qbnhtfk",
-  "widgetName": "Text1"
+  "widgetId": "phphmiqd5g",
+  "widgetName": "Text2"
 }
